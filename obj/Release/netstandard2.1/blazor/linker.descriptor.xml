@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="Blazor_TKP_APP">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
